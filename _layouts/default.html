@@ -2,26 +2,29 @@
 layout: base
 ---
 
-<header class="center">
-  <div id="logo">
-    <img style="width: 140px" src="{{ site.baseurl}}/assets/images/radiolevity-logo.svg" />
-  </div>
-  <div id="title">
-    <h1>radiolevity</h1>
-    <span class="center">artist and developer</span>
-  </div>
-</header>
+<div id="content">
+  <header class="container">
+    <div class="row">
+      <div id="navbar" class="twelve columns">
+        <div class="bold" id="title" style="white-space: nowrap"><a href="/">Finn James</a></div>
+        {% for item in site.data.nav %}
+          <div><a href="{{ item.link }}">{{ item.text }}</a></div>
+        {% endfor %}
+      </div>
+    </div>
+  </header>
 
-<div class="container">
-  <main class="row">
-    <div class="column" style="margin-top: 5%">
-      {{ content }}
+  <main class="container">
+    <div class="row">
+      <div class="twelve columns">
+        {{ content }}
+      </div>
     </div>
   </main>
 
-  <footer>
-    <div style="text-align: left">Finn James</div>
-    <div style="text-align: center; flex: 0.1"><img src="{{ site.baseurl}}/assets/images/radiolevity-logo-gray.svg" /></div>
-    <div style="text-align: right">&copy; 2020 Finn James</div>
+  <footer class="container">
+    <div class="row">
+      <div class="twelve columns small" style="text-align: center;">licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div>
+    </div>
   </footer>
 </div>

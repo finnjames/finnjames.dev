@@ -4,6 +4,11 @@ title: Finn James
 permalink: /
 ---
 
-#### Who am I?
+# What's up?
 
-My name is Finn, I'm a developer and artist. How’s it going?
+My name is Finn. How’s it going?
+
+I write about random things, sometimes. I like drawing, reading, photography, and music. I write software for radio telescopes, and occasionally articles for this site.
+
+
+[github](https://github.com/radiolevity)

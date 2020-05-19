@@ -4,6 +4,105 @@
 @import '_palette';
 @import '_typography';
 
-html {
-  color: green;
+$container_width: 32rem;
+@import '_shimmer';
+
+
+// Base styles
+
+html, body {
+  font-family: $fontstack;
+  color: $typecolor;
+  height: 100%;
+  // background-color: $white;
 }
+
+#content {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  height: 0;
+  flex: 0 0 0;
+  margin-top: 2rem;
+}
+
+#title > a {
+  color: $black;
+  &:hover {
+    color: $gray1;
+  }
+}
+
+#navbar {
+  display: flex;
+  div {
+    margin-right: 2rem;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer {
+  color: $gray3;
+  flex-shrink: 0;
+}
+
+h1, h2, h3 {
+  font-family: $titlestack;
+}
+
+a {
+  color: $gray3;
+  &:hover {
+    color: $gray2;
+  }
+}
+
+// Utility classes
+
+.bold    { font-weight: $bold; }
+.italics { font-style: italic; }
+.small   { font-size: .8rem; }
+.large   { font-size: 2rem; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
