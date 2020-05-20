@@ -1,11 +1,14 @@
-// === shimmer.css ===
+// === glimmer.css ===
 
+:root {
+  --container-width: 32rem;
+}
 
 // columns
 
 .container {
   width: 100%;
-  max-width: $container_width;
+  max-width: var(--container-width);
   display: flex;
   flex-direction: column;
 }
@@ -13,6 +16,7 @@
 .row {
   width: 100%;
   padding: 0.6rem;
+  margin: 0 -1.2rem;
   display: flex;
   flex-direction: row;
 }
@@ -36,3 +40,18 @@
 .ten     { width: calc(100%*10/12); }
 .eleven  { width: calc(100%*11/12); }
 .twelve  { width: calc(100%*12/12); }
+
+// images
+
+img {
+  @extend .image_full;
+}
+
+.image {
+  width: 100%;
+}
+
+.image_full {
+  width: 100vw;
+  margin-left: calc((100vw - var(--container-width))/-2);
+}

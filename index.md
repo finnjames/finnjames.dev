@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Finn James
+title: Finn James - Home
 permalink: /
 ---
 
@@ -8,7 +8,9 @@ permalink: /
 
 My name is Finn. How’s it going?
 
-I write about random things, sometimes. I like drawing, reading, photography, and music. I write software for radio telescopes, and occasionally articles for this site.
+I like drawing, reading, photography, and music. I write software for radio telescopes, and occasionally essays for this site.
 
 
 [github](https://github.com/radiolevity)
+
+[instagram](https://instagram.com/notafinnsta)
