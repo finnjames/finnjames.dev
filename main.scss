@@ -59,15 +59,18 @@ main {
   flex: 1 0 auto;
 }
 
-p
-
 footer {
   color: $gray3;
   flex-shrink: 0;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
   font-family: $titlestack;
+  margin-bottom: 0.6rem;
+}
+
+p {
+  margin: 0.4rem 0;
 }
 
 a {
