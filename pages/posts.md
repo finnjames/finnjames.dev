@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Finn James - Home
+title: Finn James - Posts
 permalink: /posts
 ---
 
