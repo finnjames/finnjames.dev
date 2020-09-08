@@ -6,7 +6,7 @@ permalink: /cv
 
 ## Education
 
-**University of North Carolina at Chapel Hill**
+#### University of North Carolina at Chapel Hill
 
 Honors Computer Science and Studio Art double major. GPA: 3.93.
 
