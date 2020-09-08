@@ -4,6 +4,10 @@ title: CV
 permalink: /cv
 ---
 
+<head><style>
+  p {margin: 0.4rem 0;}
+</style></head>
+
 ## Education
 
 #### University of North Carolina at Chapel Hill
