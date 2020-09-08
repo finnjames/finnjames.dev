@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does Radiolevity Mean?"
+title: "What Does Radiolevity Mean?"
 date: 2020-09-08 11:59:04 -0400
 categories: blog
 ---
