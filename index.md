@@ -8,7 +8,9 @@ permalink: /
 
 My name is Finn. How’s it going?
 
-I like drawing, reading, photography, and music. I am a Python and Javascript developer for [Skynet](https://skynet.unc.edu/).
+I like drawing, reading, photography, and music. I am an Computer Science major at UNC Chapel Hill and a Python and Javascript developer for the [Skynet robotic telescope network](https://skynet.unc.edu/).
+
+Contact: 'hey' at this domain
 
 [github](https://github.com/radiolevity)
 
