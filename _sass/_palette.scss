@@ -10,10 +10,10 @@ $gray4: lighten($black, 76%);
 $gray5: lighten($black, 80%);
 
 $roman: 400;
-$bold: 600;
+$bold: 700;
 
 $typecolor: $black;
-$fontstack: "Neue Haas Grotesk Text", Helvetica Neue, Helvetica, sans-serif;
-$titlestack: "Neue Haas Grotesk Display", $fontstack;
+$fontstack: neue-haas-grotesk-text, Helvetica Neue, Helvetica, sans-serif;
+$titlestack: $fontstack;
 $fontweight: $roman;
 $titleweight: $bold;

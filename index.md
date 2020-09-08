@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Finn James - Home
+title: Index
 permalink: /
 ---
 
-# What's up?
+# Hey!
 
 My name is Finn. How’s it going?
 
-I like drawing, reading, photography, and music. I write software for radio telescopes and spend all too much time mucking around with my computer.
-
+I like drawing, reading, photography, and music. I am a Python and Javascript developer for [Skynet](https://skynet.unc.edu/).
 
 [github](https://github.com/radiolevity)
 

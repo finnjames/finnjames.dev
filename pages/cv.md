@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Finn James - CV
+title: CV
 permalink: /cv
 ---
 

@@ -7,7 +7,7 @@
 // columns
 
 .container {
-  width: 100%;
+  width: 100vw;
   max-width: var(--container-width);
 }
 
@@ -42,16 +42,8 @@
 
 // images
 
-img {
-  @extend .image_full;
-}
-
 .image {
-  width: 100%;
-  margin-left: 0;
-}
-
-.image_full {
-  width: 100vw;
-  margin-left: calc((100vw - var(--container-width))/-2);
+  max-width: 100%;
+  max-height: 100vh;
+  margin: 2rem auto 4rem;
 }
