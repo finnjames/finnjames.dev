@@ -65,10 +65,23 @@ footer {
 
 h1, h2 {
   font-family: $titlestack;
+  position: relative;
 }
 
-h1, h2, h3, h4, h5, h6 {
+@each $hx in (h1, h2) {
+  #{$hx}::before {
+    position: absolute;
+    color: $gray3;
+    @if $hx == "h1" { content: "#"; left: -1.9rem; }
+    @else{ content: "##"; left: -2.76rem; }
+  }
+}
+
+h1, h2, h3 {
   margin-bottom: 0.6rem;
+}
+h4, h5, h6 {
+  margin-bottom: 0.4rem;
 }
 
 p {

@@ -26,6 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://finnjames.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  radiolevity
 
+kramdown:
+  auto_ids: true
+
 # Build settings
 # theme: minima
 # plugins:
