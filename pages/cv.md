@@ -103,17 +103,17 @@ By Spring 2021, I will have completed three semesters of Japanese.
 
 ## Community Service
 
-#### Instructor, <span class="roman">Durham Public Library</span>
-
-<span class="gray">Summer 2016</span>
-
-I volunteered with the Durham Public Library Techno Saturdays Program, where I taught programming and computer science to children who might otherwise not have had exposure to computers. 
-
 #### Creator & Instructor, <span class="roman">CodeBuilders Programming Course</span>
 
 <span class="gray">Spring 2017</span>
 
 I created and taught a intro programming class for middle-school-aged students. We covered Python and Web development. I designed the course to focus on fundamentals, so that the students would feel more comfortable coding and working with computers.
+
+#### Instructor, <span class="roman">Durham Public Library</span>
+
+<span class="gray">Summer 2016</span>
+
+I volunteered with the Durham Public Library Techno Saturdays Program, where I taught programming and computer science to children who might otherwise not have had exposure to computers. 
 
 ## Interests
 
