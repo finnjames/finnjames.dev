@@ -39,6 +39,12 @@ I was selected for the Educational Research In Radio Astronomy program, an inten
 
 I won second place for my hardware project at HackNC 2019. My team and I constructed a rig using Python and OpenCV to 3D track the position of objects in real time. As the team's software developer, I wrote the system that interpreted the dual input streams coming from the stereoscopic camera setup so that the depth of the objects could be calculated in real time. In this project, I led my team to each build a part of the project separately and combine them seamlessly.
 
+#### RYLA
+
+<span class="gray">April 2017</span>
+
+I was honored with the Rotary Youth Leadership Award, and I attended the associated conference. The conference is an 18-hour-a-day high-energy event where the recipients work with each other to develop leadership and problem solving skills.
+
 ## Employment
 
 #### Research Assistant, <span class="roman">UNC Department of Physics & Astronomy</span>
@@ -55,7 +61,7 @@ Now, I am building a new front-end application for the Skynet robotic telescope 
 
 <span class="gray">June 2019 – Present</span>
 
-I am a designer and full-stack web developer under my own brand [radiolevity](https://radiolevity.com). A portfolio example: the [Chapel Hill Friends Meeting website](https://chapelhillfriends.org).
+I am a designer and full-stack web developer under my own brand [radiolevity](https://radiolevity.com). I am a one-stop shop for local clients to create or overhaul their web presence. A portfolio example: the [Chapel Hill Friends Meeting website](https://chapelhillfriends.org).
 
 #### Counselor, <span class="roman">Carolina Friends School</span>
 
@@ -103,6 +109,12 @@ By Spring 2021, I will have completed three semesters of Japanese.
 
 ## Community Service
 
+#### Cofounder, <span class="roman">Project Recap</span>
+
+<span class="gray">Spring 2018</span>
+
+I cofounded and helped run a charitable program that continues today to collect, clean, and redistribute graduation paraphernalia to high school students.
+
 #### Creator & Instructor, <span class="roman">CodeBuilders Programming Course</span>
 
 <span class="gray">Spring 2017</span>
@@ -123,11 +135,14 @@ A few of my recent images may be found in my [Portfolio](/portfolio#photography)
 #### Drawing & Painting
 Likewise, few of my favorite drawings [are there as well](/portfolio#drawing).
 
+#### Martial Arts
+I have practiced martial arts for years, and have achieved a second degree black belt in the Japanese martial art _toshindo_.
+
 #### Reading
 My favorite books include _The Brief Wondrous Life of Oscar Wao_ by Junot Díaz, _Jane Eyre_ by Charlotte Brontë, and _Going Postal_ by Terry Pratchett.
 
-#### Design
-As you may be able to predict from my site, I am a fan of modern architecture and minimalist design.
+#### Architecture
+As you may be able to predict from my site, I am a fan of modern architecture and minimalist design. I am especially a fan of the works of Ludwig Mies van der Rohe.
 
 #### Cooking
-I like cooking, especially Japanese and Italian cuisine. I also once threw a Latke–Hamentash Debate event in the style of [the original](https://en.wikipedia.org/wiki/Latke%E2%80%93Hamantash_Debate), which involved both making and arguing about the relative metaphysical merits of both foods.
+I love to cook, especially Japanese and Italian cuisine. I also once threw a Latke–Hamentash Debate event in the style of [the original](https://en.wikipedia.org/wiki/Latke%E2%80%93Hamantash_Debate), which involved both making and arguing about the relative metaphysical merits of both foods.
