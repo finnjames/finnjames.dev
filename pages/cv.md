@@ -78,9 +78,10 @@ I led activities with campers at Carolina Friends School Summer Programs to enco
 **Familiarity with:** Wolfram Mathematica, Microsoft Excel
 
 ### Astrophysics
-**Familiarity with:** Astropy, NumPy, Stellarium, Radio Cartographer, Afterglow
 
 **Courses Completed by Spring 2021:** Calculus-based Mechanics & Relativity, Intro Astronomy & Lab
+
+**Familiarity with:** Astropy, NumPy, Stellarium, Radio Cartographer, Afterglow
 
 ### Technology
 
