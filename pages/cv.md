@@ -79,7 +79,7 @@ I led activities with campers at Carolina Friends School Summer Programs to enco
 
 ### Astrophysics
 
-**Courses Completed by Spring 2021:** Calculus-based Mechanics & Relativity, Intro Astronomy & Lab
+**Courses Completed by Spring 2021:** Calculus-based Mechanics & Relativity, Intro Astronomy & Lab, Intro Cosmology
 
 **Familiarity with:** Astropy, NumPy, Stellarium, Radio Cartographer, Afterglow
 
