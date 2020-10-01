@@ -117,7 +117,7 @@ I created and taught a intro programming class for middle-school-aged students. 
 A few of my recent images may be found in my [Portfolio](/portfolio#photography).
 
 #### Drawing & Painting
-Likewise, few of my favorite drawings [are there as well](/portfolio#drawings).
+Likewise, few of my favorite drawings [are there as well](/portfolio#drawing).
 
 #### Reading
 My favorite books include _The Brief Wondrous Life of Oscar Wao_ by Junot Díaz, _Jane Eyre_ by Charlotte Brontë, and _Going Postal_ by Terry Pratchett.
