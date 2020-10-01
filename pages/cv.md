@@ -72,7 +72,10 @@ I led activities with campers at Carolina Friends School Summer Programs to enco
 **Courses Completed by Spring 2021:** Digital Logic & Computer Design, Models of Language & Computation, Data Structures, Computer Architecture, Modern Web Development, UX Design & Usability
 
 ### Mathematics
+
 **Courses Completed by Spring 2021:** Discrete Mathematics, Linear Algebra, Multivariable Calculus
+
+**Familiarity with:** Wolfram Mathematica, Microsoft Excel
 
 ### Astrophysics
 **Familiarity with:** Astropy, NumPy, Stellarium, Radio Cartographer, Afterglow
