@@ -133,7 +133,7 @@ I volunteered with the Durham Public Library Techno Saturdays Program, where I t
 A few of my recent images may be found in my [Portfolio](/portfolio#photography).
 
 #### Drawing & Painting
-Likewise, few of my favorite drawings [are there as well](/portfolio#drawing).
+Likewise, a few of my favorite drawings [are there as well](/portfolio#drawing).
 
 #### Martial Arts
 I have practiced martial arts for years, and have achieved a second degree black belt in the Japanese martial art _toshindo_.
