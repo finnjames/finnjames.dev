@@ -13,7 +13,7 @@ permalink: /cv
 
 #### University of North Carolina at Chapel Hill
 
-Computer Science and Studio Art double major. GPA: 3.93. Expected graduation: May 2022.
+Computer Science and Studio Art double major. GPA: 3.94. Expected graduation: May 2022.
 
 #### Honors Carolina
 
