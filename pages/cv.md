@@ -153,3 +153,4 @@ As you may be able to predict from my site, I am a fan of modern architecture an
 
 #### Cooking
 I love to cook, especially Japanese and Italian cuisine. I also once threw a Latke–Hamantash Debate event in the style of [the original](https://en.wikipedia.org/wiki/Latke%E2%80%93Hamantash_Debate), which involved both making and arguing about the relative metaphysical merits of both foods.
+    

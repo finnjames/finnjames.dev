@@ -79,9 +79,6 @@ h1, h2 {
     color: $gray3;
     @if $hx == "h1" { content: "#"; left: -1.9rem; }
     @else{ content: "##"; left: -2.76rem; }
-    // @media (min-width: var(--container_width)) {
-    //   display: none;
-    // }
     @media (max-width: #{$container-width + 4rem}) {
       display: none;
     }
